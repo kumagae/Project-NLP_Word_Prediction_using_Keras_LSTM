@@ -1,4 +1,4 @@
-# -NLP - Neural Language Model
+#Project-NLP_Word_Prediction_using_Keras_LSTM
 
 A language model predicts the next word in a sequence based off the words that have come before it in the sequence. It's possible to develop language models at the character level using neural networks.
 
